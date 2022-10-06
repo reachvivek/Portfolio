@@ -1,2 +1,2 @@
-# Portfolio
-Pure HTML Website Structured 
+# Resume
+Pure HTML Website for Portfolio
